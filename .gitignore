@@ -7,6 +7,8 @@ __pycache__/
 *.csv
 *.xlsx
 *.txt
+*.docs
+*.docx
 *.parquet
 # Models
 rawdata/
