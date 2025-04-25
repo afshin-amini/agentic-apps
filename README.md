@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 ---
 
-### Create a .env file (copy from .env.example) and add your OpenAI key:
+## Create a .env file (copy from .env.example) and add your OpenAI key:
 OPENAI_API_KEY=your-real-api-key-here
 
-### Start the App
+## Start the App
 streamlit run streamlit_app.py
